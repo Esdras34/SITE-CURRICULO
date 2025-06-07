@@ -4,4 +4,4 @@
 <br>
 <img src="Captura de tela 2025-06-07 020553.png">
 <br>
-<p>Para quem quiser visitar, disponibilizo o link file:///D:/SITE%20CURRICULO/site%20curriculo/index.html</p>
+<p>Para quem quiser visitar, disponibilizo o link -> https://fanciful-jelly-14469b.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAadc0hxjYgH_n68vmBsrxzpMI7ufXK_tUiiWS9be4zkcpuulAhuDWaI-cJPA1Q_aem_WetxD9kmNj0qtQQApe7Aew</p>
